@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java** 
 - 👯 I’m looking to collaborate on **Spring Framework**
 - 🤝 I’m looking for help with **Backend Programming**
-- 👨‍💻 All of my projects are available [@tranan2509](github.com/tranan2509)
+- 👨‍💻 All of my projects are available [@tranan2509](https://github.com/tranan2509?tab=repositories)
 - 💬 Ask me about **Java 😆**
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
