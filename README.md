@@ -7,7 +7,8 @@
 <h1 align="center">Hey there, I'm <a href="https://facebook.com/tranan2509/">An Tran</a> - Java Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from Vietnam</h3>
 
-![](https://komarev.com/ghpvc/?username=tranan2509&color=brightgreen)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tranan2509" alt="tranan2509" /> <img src="https://badges.pufler.dev/repos/tranan2509" alt="tranan2509" /> </p>
+
 - ✍ I'm a student of [HCMC University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🌱 I’m currently learning **Java** 
 - 👯 I’m looking to collaborate on **Spring Framework**
@@ -41,7 +42,7 @@ Email: [***tranan2509@gmail.com***](mailto:tranan2509@gmail.com)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tranan2509&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranan2509&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranan2509.tranan2509)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranan2509.tranan2509) -->
 
 <!--
 **tranan2509/tranan2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
