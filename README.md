@@ -32,15 +32,15 @@
 
 ## 📫 How to reach me:
 Email: [***tranan2509@gmail.com***](mailto:tranan2509@gmail.com)
-<!-- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranan2509&hide=html&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" width="50%" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranan2509&count_private=true&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" alt="An Tran's GitHub Stats" width="50%" />
-</p> -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tranan2509&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=tranan2509&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranan2509&hide=TeX&layout=compact)
+ -->
+
+| <a href="https://github.com/tranan2509/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranan2509&show_icons=true&include_all_commits=true&hide_border=true" alt="An Tran's github stats" /></a> | <a href="https://github.com/tranan2509/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranan2509&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranan2509.tranan2509) -->
 
