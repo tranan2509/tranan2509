@@ -1,11 +1,20 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm An Tran
-<p align="center"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" /></p>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
+
+<h1 align="center">Hey there, I'm <a href="https://facebook.com/tranan2509/">An Tran</a> - Java Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h3 font-size="20" align="center">A passionate backend developer and a student from Vietnam</h3>
 
 ![](https://komarev.com/ghpvc/?username=tranan2509&color=brightgreen)
-- ✍ I'm a student of:  [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Java
-
+- ✍ I'm a student of [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **Java** 
+- 👯 I’m looking to collaborate on **Spring Framework**
+- 🤝 I’m looking for help with **Backend Programming**
+- 👨‍💻 All of my projects are available [@tranan2509](github.com/tranan2509)
+- 💬 Ask me about **Java 😆**
+- ⚡ Fun fact **Coding is a passion and not profession.**
 
 ## ⚡ Technologies
 
