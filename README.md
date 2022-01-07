@@ -43,15 +43,3 @@ Email: [***tranan2509@gmail.com***](mailto:tranan2509@gmail.com)
 | <a href="https://github.com/tranan2509/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranan2509&show_icons=true&include_all_commits=true&hide_border=true" alt="An Tran's github stats" /></a> | <a href="https://github.com/tranan2509/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranan2509&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tranan2509.tranan2509) -->
-
-<!--
-**tranan2509/tranan2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Connect with me:
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
