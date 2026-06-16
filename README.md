@@ -4,7 +4,7 @@
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<h1 align="center">Hey there, I'm <a href="https://facebook.com/tranan2509/">An Tran</a> - Java Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hey there, I'm <a href="#">An Tran</a> - Java Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from Vietnam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tranan2509" alt="tranan2509" /> <img src="https://badges.pufler.dev/repos/tranan2509" alt="tranan2509" /> </p>
